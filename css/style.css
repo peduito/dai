@@ -137,10 +137,9 @@ footer .copyright p {
         font-family: oswald;
         padding-bottom: 1%;
         margin-left: 1px;
-        margin-bottom: 10%;
-        width: 110%;
-        ;
-    }
+        margin-bottom: 4%;
+        width: 90%;
+}
 
 @media (min-width: 576px) { 
     .carousel-caption h1 {
