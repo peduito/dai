@@ -197,7 +197,7 @@ footer .copyright p {
 /* // Large devices (desktops, 992px and up) */
 @media (min-width: 992px) { 
 .carousel-caption h1 {
-    font-size: 400% !important;
+    font-size: 380% !important;
     letter-spacing: 1px;
     text-align: left;
     font-family: oswald;
