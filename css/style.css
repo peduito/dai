@@ -174,7 +174,7 @@ footer .copyright p {
 /* // Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
     .carousel-caption h1 {
-        font-size: 320% !important;
+        font-size: 250% !important;
         letter-spacing: 1px;
         text-align: left;
         font-family: oswald;
@@ -197,7 +197,7 @@ footer .copyright p {
 /* // Large devices (desktops, 992px and up) */
 @media (min-width: 992px) { 
 .carousel-caption h1 {
-    font-size: 380% !important;
+    font-size: 300% !important;
     letter-spacing: 1px;
     text-align: left;
     font-family: oswald;
